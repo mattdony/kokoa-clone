@@ -1,0 +1,21 @@
+.more-screen .icon-row {
+  margin-bottom: 45px;
+}
+.more-suggestion {
+  border-top: var(--main-bordar);
+  padding-top: 40px;
+  margin-bottom: 30px;
+}
+.more-suggestion .icon-row {
+  display: flex;
+  margin-top: 30px;
+}
+.icon-row__icon-image {
+  width: 60px;
+  height: 60px;
+  background-color: var(--yellow);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10%;
+}
